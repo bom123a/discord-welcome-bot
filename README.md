@@ -1,2 +1,10 @@
-# discord-welcome-bot
-Simple Welcome Bot for Discord that greets new members and assigns roles automatically.
+# Discord Welcome Bot
+
+A simple Discord bot that automatically welcomes new members and assigns them a specified role. 
+
+## Features
+
+- Automatically greets new members.
+- Assigns roles to new members.
+- Configurable welcome message and settings via `config.json`.
+
